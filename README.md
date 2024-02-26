@@ -19,4 +19,4 @@ Clone the repository to your local machine
 
 ### Description for the GitHub Repository
 
-"A streamlined command-line application to manage personal and professional contacts. Built with Python, it offers a user-friendly interface to add, search, delete, and list contact details. Perfect for those seeking a minimalistic approach to contact management."
+A streamlined command-line application to manage personal and professional contacts. Built with Python, it offers a user-friendly interface to add, search, delete, and list contact details. Perfect for those seeking a minimalistic approach to contact management.
