@@ -1,4 +1,4 @@
-# enhanced_contact_book
+# ContactHub
 A intuitive contact management system written in Python, enabling users to maintain a list of contacts via a command-line interface.
 
 Runs on : 
